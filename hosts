@@ -1,7 +1,7 @@
 [dev_servers]
-172.31.14.160
-172.31.1.108
-172.31.14.161
+ec2-52-201-236-169.compute-1.amazonaws.com
+ec2-54-208-203-32.compute-1.amazonaws.com
+ec2-52-91-192-173.compute-1.amazonaws.com
 
 [www_servers]
-172.31.14.158
+ec2-54-172-88-127.compute-1.amazonaws.com
