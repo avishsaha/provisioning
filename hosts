@@ -1,7 +1,7 @@
 [dev_servers]
 ec2-52-201-236-169.compute-1.amazonaws.com
 ec2-54-208-203-32.compute-1.amazonaws.com
-ec2-54-208-203-32.compute-1.amazonaws.com
+ec2-54-172-153-130.compute-1.amazonaws.com
 
 [www_servers]
 ec2-54-172-88-127.compute-1.amazonaws.com
